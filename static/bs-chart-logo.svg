@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="271px" height="256px" viewBox="0 0 271 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B5EDFF" offset="0%"></stop>
+            <stop stop-color="#1CABF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#F2C4FF" offset="0%"></stop>
+            <stop stop-color="#CB40FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <path d="M132,200 C187.228475,200 269.042969,155.228475 269.042969,100 C269.042969,44.771525 187.228475,0 132,0 C76.771525,0 187.484375,44.771525 187.484375,100 C187.484375,155.228475 76.771525,200 132,200 Z" id="Oval-2" stroke="#3695E6" fill="url(#linearGradient-1)"></path>
+            <path d="M15.4374048,254 C70.6658798,254 152.480374,209.228475 152.480374,154 C152.480374,98.771525 70.6658798,54 15.4374048,54 C-39.7910701,54 70.9217798,98.771525 70.9217798,154 C70.9217798,209.228475 -39.7910701,254 15.4374048,254 Z" id="Oval-2" stroke="#DB85F9" fill="url(#linearGradient-2)" transform="translate(76.240187, 154.000000) rotate(-180.000000) translate(-76.240187, -154.000000) "></path>
+        </g>
+    </g>
+</svg>

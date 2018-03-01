@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="10px" viewBox="0 0 31 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.299999982">
+        <g id="列表" transform="translate(-201.000000, -74.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-33-Copy-2" transform="translate(60.000000, 61.000000)">
+                <g id="Group-80" transform="translate(15.000000, 6.000000)">
+                    <g id="Group-77">
+                        <path d="M126,7 L129.75,7 L133.5,17 L129.75,17 L126,7 Z M134,7 L137.75,7 L141.5,17 L137.75,17 L134,7 Z M142,7 L145.75,7 L149.5,17 L145.75,17 L142,7 Z M150,7 L153.75,7 L157.5,17 L153.75,17 L150,7 Z" id="Combined-Shape" transform="translate(141.750000, 12.000000) scale(-1, 1) translate(-141.750000, -12.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

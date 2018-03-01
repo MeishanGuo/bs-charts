@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="10px" viewBox="0 0 32 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-2.22044605e-14%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.299999982">
+        <g id="无表头" transform="translate(-62.000000, -67.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-33-Copy-3" transform="translate(47.000000, 55.000000)">
+                <g id="Group-80" transform="translate(15.000000, 5.000000)">
+                    <g id="Group-77">
+                        <path d="M0,7 L3.75,7 L7.5,17 L3.75,17 L0,7 Z M8,7 L11.75,7 L15.5,17 L11.75,17 L8,7 Z M16,7 L19.75,7 L23.5,17 L19.75,17 L16,7 Z M24,7 L27.75,7 L31.5,17 L27.75,17 L24,7 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
