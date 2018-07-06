@@ -15,59 +15,6 @@ import table1 from './props/table1'
 import table2 from './props/table2'
 import table3 from './props/table3'
 
-// export default  {
-//   type: 'bs-chart-layout-card',
-//   name: 'mutilTitleCard',
-//   attributes: {
-//     props: {
-//       title: ['功能访问次数监控', '用户访问次数监控'],
-//       currentTitleIndex: 0,
-//       height:'156px'
-//     },
-//     slot: 'center-bottom-right'
-//   },
-//   children: [{
-//     type: 'china-map-layout',
-//     children: [
-//       {
-//         type: 'bs-chart-china-map',
-//         name: 'provinceCountList',
-//         attributes: {
-//           props: {
-//             citys: chinaHotCity
-//           },
-//           slot: 'main'
-//         }
-//       },
-//       {
-//         type: 'date-tool',
-//         attributes: {
-//           props: {},
-//           slot: 'right-top'
-//         }
-//       },
-//       {
-//         type: 'scale-tool',
-//         attributes: {
-//           props: {},
-//           slot: 'left-bottom'
-//         }
-//       },
-//       {
-//         type: 'number-with-bg',
-//         name: 'tenantCount',
-//         attributes: {
-//           props: {
-//             label: '',
-//             count: 872999
-//           },
-//           slot: 'left-top'
-//         }
-//       }
-//     ]
-//   }]
-// }
-
 export default {
     type: 'bs-chart-page-layout',
     children: [
@@ -81,7 +28,7 @@ export default {
               width: '100%',
               height: '370px'
             },
-            title: '北京北森云技术股份有限公司鹰眼感知监控'
+            title: '鹰眼感知监控'
           },
           slot: 'page-title'
         }
@@ -292,6 +239,26 @@ export default {
           }
         }]
       },
+      {
+        type: 'bs-chart-layout-card',
+        attributes: {
+          props: {
+            title: '近7日网络攻击监控',
+            styles: {
+              width: '100%',
+              height: '240px'
+            }
+          },
+          slot: 'right'
+        },
+        children: [{
+          type: 'bs-chart-diagram',
+          name: 'netAttachCountData',
+          attributes: {
+            props: diagram1
+          }
+        }]
+      },
       // 右侧图表
       {
         type: 'bs-chart-layout-card',
@@ -315,26 +282,7 @@ export default {
           }
         }]
       },
-      {
-        type: 'bs-chart-layout-card',
-        attributes: {
-          props: {
-            title: '近7日网络攻击监控',
-            styles: {
-              width: '100%',
-              height: '240px'
-            }
-          },
-          slot: 'right'
-        },
-        children: [{
-          type: 'bs-chart-diagram',
-          name: 'netAttachCountData',
-          attributes: {
-            props: diagram1
-          }
-        }]
-      },
+      
       {
         type: 'bs-chart-layout-card',
         attributes: {
