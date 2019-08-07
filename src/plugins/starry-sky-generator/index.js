@@ -6,7 +6,7 @@ export default function starrySkyGenerator  (cfg = {}) {
     var defaults = {
       container: document.body,
       starColor: '#64b5f6',
-      mount: 100,
+      mount: 1000,
       maxRadius: 1,
       minRadius: 1,
       alphaStep: 40 // 越大, 闪烁越慢

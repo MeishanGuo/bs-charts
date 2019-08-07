@@ -3,10 +3,10 @@ import { getDescartesPosition } from './utils/index.js'
  
 const earchRadius = 200
 const refereLineLength = 150
-const flyCurveConfig = {
-  duration: 1000 * 10,
-  loop: 1000 * 20
-}
+// const flyCurveConfig = {
+//   duration: 1000 * 10,
+//   loop: 1000 * 20
+// }
 export default function createFlyCurve (data) {
   var curvesGroup = new THREE.Object3D()
   data.forEach((p) => {
@@ -71,7 +71,7 @@ function _curveGenerater(startPoint, endPoint, color) {
   var distanceHalf = distanceFromStartToEnd * 0.5;
   //  midpoint for the curve
   var mid = startPoint.clone().lerp(endPoint, 0.5);
-  var midLength = mid.length()
+  // var midLength = mid.length()
   mid.normalize();
   // 曲线凸起高度为220
   mid.multiplyScalar(220);
