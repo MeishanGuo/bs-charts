@@ -7,7 +7,7 @@
     <div class="header-right" ref='headRight'></div>
     <div class="logo-wrap">
       <img src="./eagle-logo.svg" class="eagle-logo">
-      <span class="eagle-text">北京北森云计算鹰眼监控系统</span>
+      <span class="eagle-text">云计算鹰眼监控系统</span>
     </div>
   </div>
 </template>
