@@ -2,6 +2,7 @@ import  { getDescartesPosition }  from './utils/index.js'
 import { getWorldMapStepInfo } from '@utils/theme'
 
 export default (data) => {
+  console.log(data);
     const earthRadius = 200
 
     var group = new THREE.Object3D()

@@ -5,7 +5,8 @@ export default {
     props: {
       title: '友盟用户世界大图',
       styles: {
-        fontSize: 20
+        fontSize: 20,
+        background: '#0e0d28'
       }
     },
     slot: 'center-top'

@@ -12,6 +12,7 @@
   import fogGenerator from '@plugins/fog-generator'
   import starrySkyGenerator from '@plugins/starry-sky-generator'
   import staticPath from '@utils/static-path'
+
   export default {
     name: 'bs-chart-world-map',
     props: {

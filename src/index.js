@@ -1,5 +1,5 @@
 /*
- * @beisen/bs-chart v0.1.14
+ * @gms/bs-chart v0.1.14
  * (c) 2018 guomeishan
  * Released under the ISC License.
  * WARNING: The file is automatically generated, not manually modified. 

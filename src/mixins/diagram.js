@@ -1,5 +1,5 @@
 /**
-* create by guomeishan@beisen.com
+* create by gms_smg@163.com
 * props for vue-chart-diagram
 */
 

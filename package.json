@@ -1,19 +1,19 @@
 {
-  "name": "@beisen/bs-chart",
+  "name": "@gms/bs-chart",
   "version": "0.1.14",
   "description": "bs-chart",
   "author": {
     "name": "guomeishan",
-    "email": "guomeishan@beisen.com"
+    "email": "guomeishan@gms.com"
   },
   "maintainers": [
     {
       "name": "guomeishan",
-      "email": "guomeishan@beisen.com"
+      "email": "guomeishan@gms.com"
     }
   ],
   "keywords": [
-    "beisen",
+    "gms",
     "vue-component",
     "es6"
   ],

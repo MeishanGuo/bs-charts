@@ -38,7 +38,7 @@ export default () => {
   var uniforms = THREE.UniformsUtils.clone(shader.uniforms)
 
   var loader = new THREE.TextureLoader()
-  uniforms['texture'].value = loader.load(staticPath.worldShader)
+  uniforms['texture'].value = loader.load(staticPath.worldShader2)
 
   var material = new THREE.ShaderMaterial({
     uniforms: uniforms,
